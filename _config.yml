@@ -1,0 +1,9 @@
+name: Disenórdico
+description: Web sobre muebles, ropa, y accesorios con un toque nórdico.
+url: http://disenordico.com
+markdown: redcarpet
+pygments: true
+permalink: /:title
+paginate: 5
+paginate_path: "page:num"
+timezone: Europe/Madrid

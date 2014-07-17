@@ -1,0 +1,38 @@
+---
+layout: default
+title: Disenórdico
+description: Web sobre muebles, ropa, y accesorios con un toque nórdico.
+---
+
+{% for post in paginator.posts %}
+    <div class="wrapper">
+        <div class="post">
+            <a href="{{ post.url }}">
+                <h1>{{ post.title }}</h1>
+            </a>
+            {{ post.excerpt }}
+        </div>
+
+        <div class="post-data">
+            <a class="button" href="{{ post.url }}">Leer más<span class="outscreen"> sobre {{ post.title }}</span>...</a>
+        </div>
+    </div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/" class="previous">Anterior</a>
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}" class="previous" rel="prev">Anterior</a>
+    {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+    {% if paginator.previous_page %}
+     ·
+    {% endif %}
+
+    <a href="/page{{ paginator.next_page }}" class="next" rel="next">Siguiente</a>
+  {% endif %}
+</div>
