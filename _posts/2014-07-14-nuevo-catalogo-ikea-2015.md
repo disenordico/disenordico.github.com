@@ -2,9 +2,10 @@
 layout: post
 title: Novedades Ikea 2015
 date: 2014-07-14 22:55:00+02:00
-description: Ikea acaba de presentar un adelanto de su catálogo para 2015
+description: Ikea acaba de presentar un adelanto de su catálogo para 2015.
 tags:
   - ikea
+image: /assets/images/ikea/novedades-2015.jpg
 ---
 
 ![IKEA Novedades 2015]({{ site.url }}/assets/images/ikea/novedades-2015.jpg)
