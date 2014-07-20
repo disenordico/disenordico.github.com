@@ -253,6 +253,13 @@ header {
     width: 100%;
 }
 
+.img-footer {
+    margin-top: -15px;
+    display: block;
+    text-align: center;
+    font-size: 80%;
+}
+
 /*--POST DATA--*/
 
 .post-data {
