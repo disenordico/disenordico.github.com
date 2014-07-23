@@ -26,7 +26,7 @@ La mesa está hecha de acero revestido con polvo, y está disponible en dos tama
 
 [![DLM]({{ site.url }}/assets/images/mesas-cafe/dlm_hay.jpg)](http://hokusfiliokus.blogspot.de/2012/08/interirbloggerstylist.html) <div class="img-footer">Photo by Hokusfiliokus</div>
 
-## Tablo Table
+## Tablo
 
 Otra mesa redonda con borde saliente es la [Tablo Table](http://www.normann-copenhagen.com/families/tablo-table), diseñada por [Nicholai Wiig Hansen](http://www.wiighansen.com/) y que fabrica [Normann Copenhagen](http://www.normann-copenhagen.com/).
 
