@@ -42,5 +42,5 @@ La [Key](http://gamfratesi.com/#/key/) es una mesa de madera diseñada por [Gamf
 
 IKEA tiene una versión de este tipo de mesas, la [PS Sandskär](http://www.ikea.com/es/es/catalog/products/40193228/). Fabricada en plástico, está categorizada como _mueble de exterior_. El tablero superior se puede extraer y hace las veces de bandeja, lo cual resulta muy práctico. Está disponible en blanco y negro.
 
-[![Ikea PS Sandskär]({{ site.url }}/assets/images/mesas-cafe/ikea-ps-sandskar)](http://www.ikea.com/es/es/catalog/products/40193228/) <div class="img-footer">Foto de Ikea</div>
+[![Ikea PS Sandskär]({{ site.url }}/assets/images/mesas-cafe/ikea-ps-sandskar.jpg)](http://www.ikea.com/es/es/catalog/products/40193228/) <div class="img-footer">Foto de Ikea</div>
 
